@@ -1,0 +1,48 @@
+.env
+.htaccess
+ActuSoport/
+Actualizaciones/
+Instacodex/
+cert/
+imagenes/
+EquiposVersiones.txt
+LosDeSubir (1).sql
+LosDeSubir.sql
+TRIGER AUTOINCREMENTO (1).sql
+articulo.html
+articulosAfterInsert.sql
+articulosAfterUpdate.sql
+canvas.js
+eventosocurrenciasAfterInsert.sql
+favicon.ico
+funcionCompongaMovimiento.sql
+funcionRegistreEvento.sql
+funcionRegistreEventoSimple.sql
+funcionUltimaOcurrenciaDe.sql
+funciones.sql
+funcionesAnuleEvento.sql
+index para mantenimiento.html
+kardexAfterInsert.sql
+kardexBeforeInsert - copia.sql
+kardexBeforeInsert.sql
+moAfterInsert.sql
+moBeforeInsert.sql
+php/acurl.php
+php/borrarporfavor.php
+php/funciones para que funcione valide.php.txt
+php/index.html
+php/registrea.php
+php/registrem.php
+procedimientosespeciales
+procedimientosespeciales.sql
+pruebadeimpresion.html
+scripts.zip
+scripts/datossp.js
+scripts/fb.js
+scripts/funcionario.txt
+scripts/funciones.js
+scripts/planilla - copia.js
+scripts/planillaCostos.js
+scripts/tareas.js
+solteclogo.png
+vaBeforeInsert.sql
